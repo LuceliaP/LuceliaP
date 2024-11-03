@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projet for enthusiastic beginners 
 - 📫 Feel free to reach out to me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like pizza with ananas and roquefort
+- ⚡ Fun fact: Fan of pizza with anana
 
 <!---
 LuceliaP/LuceliaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
