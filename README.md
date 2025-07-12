@@ -1,16 +1,19 @@
 <h1 align="center">Hola, soy Lucelia! 👋</h1>
 <p align="center">
-  💻 Java Developer | 🐶 Animal Lover | 🎨 Coding with style
+  💻 Programming Student  | ⛰️ Fan of Outdoor Sports | 🎯 Focused in Back End
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🚗 I built a **Car Dealership CRUD system**
-- 🐕 Created a **Dog Grooming Desktop App** in Java
-- 🧠 Always learning: currently diving into **Spring Boot** & **Docker**
-- ✨ Passionate about clean architecture and user-friendly design
+🎓 I completed several Java courses
+
+🏫 Currently studying Programming Technician Degree at UTN Argentina
+
+🌱 Diving into **Spring Boot** & **Docker**
+
+🧠 I also have a background in Psychology 🤓
 
 ---
 
@@ -42,14 +45,6 @@
 
 ---
 
-### ✨ Extras
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LuceliaP)
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/LuceliaP/LuceliaP/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 📫 Contact Me
 
