@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Lucelia! 👋</h1>
 <p align="center">
-  💻 Programming Student  | ⛰️ Fan of Outdoor Sports | 🎯 Focused in Back End
+  💻 Programming Student  | ⛰️ Fan of Outdoor Sports | 🎯 Focused in Backend
 </p>
 
 ---
