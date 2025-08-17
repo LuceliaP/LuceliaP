@@ -1,23 +1,23 @@
-<h1 align="center">Hola, soy Lucelia! 👋</h1>
+<h1 align="center">🔥 HELLO, I'M LUCELIA! 🔥</h1>
 <p align="center">
-  💻 Programming Student | 🎯 Focused in Backend
+  💻 Programming Student | 🎯 Backend Fighter
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 ╔═══ About Me ═══╗
 
 🎓 I completed several Java courses
 
-🏫 Currently studying Programming Technician Degree at UTN Argentina
+🏫 Currently **leveling up** in Programming Technician Degree at UTN Argentina 🎮
 
-🌱 Diving into **Spring Boot** & **Docker**
+🌱 Diving into **Spring Boot** & **Docker** 🔥
 
-🧠 I also have a background in Psychology 🤓
+🧠 I also have a background in Psychology 🤓 — debugging the **source code of the soul** 👾
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 ╔═══ Tech Stack ═══╗
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,10 +25,9 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-
 ---
 
-### 🚀 Projects
+### 🚀 ╔═══ Projects ═══╗
 
 📌 **[Dog Grooming Salon Management System](https://github.com/LuceliaP/Dog-Grooming-Salon-Management-System)**  
 💡 Desktop Java app with CRUD, layered model, and MySQL persistence.
@@ -38,7 +37,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 ╔═══ GitHub Stats ═══╗
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuceliaP&show_icons=true&theme=radical" width="400"/>
@@ -47,13 +46,14 @@
 
 ---
 
-
-### 📫 Contact Me
+### 📫 ╔═══ Contact Me ═══╗
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucelia-pavic/)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luceliapavic@gmail.com)
 
 ---
 
-_Gracias por pasar por mi perfil, ¡nos vemos en el código!_ 😄
+_Thanks for visiting my profile, see you in the code!_ ⚔️👾
+
+
 
